@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I am Davi Reis
+
+- I study Data Science 💻
+- I really love my professional area 💙
+- And I am really greatuful for you view my profile 😁
 
 <!--
 **DaviReis136/DaviReis136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
