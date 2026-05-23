@@ -2,7 +2,7 @@
  
 - I study Data Science 💻
 - I really love my professional area 💙
-- I live on Rio de Janeiro ✈️🌊
+- I live on Rio de Janeiro - RJ ✈️🌊
 - I hava a really wish to travel to annother country someday 🗺️
 - And I am really greatuful for you view my profile 😁🫶
 
