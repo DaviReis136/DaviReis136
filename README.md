@@ -1,5 +1,5 @@
 ## Hi, I am Davi Reis
-
+ 
 - I study Data Science 💻
 - I really love my professional area 💙
 - I live on Rio de Janeiro ✈️🌊
