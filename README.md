@@ -1,6 +1,7 @@
-## Hi, I am Davi Reis    <div style="display: inline_block"><br>
-  <img align="right" alt="Davi-Js" height="250" width="250"
-src="https://github.com/user-attachments/assets/58ef915c-5314-4736-9900-676e5db480a5" />
+## Hi, I am Davi Reis    
+<div style="display: inline_block"><br>
+  <img align="left" alt="Davi-CHT" height="250" width="250"
+src="https://github.com/user-attachments/assets/58ef915c-5314-4736-9900-676e5db480a5" /> 
 </div>
  
 - I study Data Science 💻
@@ -20,6 +21,8 @@ src="https://github.com/user-attachments/assets/d7ce3ca0-e4ec-4503-8771-97942ea7
   <img align="center" alt="Davi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Davi-XML" height="30" width="40"
 src="https://github.com/user-attachments/assets/52487807-f067-4e40-a501-87e61d163313" />
+   <img align="right" alt="Davi-CHT1" height="100" width="250"
+src="https://github.com/user-attachments/assets/912f6855-40ab-4893-9c51-24260a976e27" /> 
 </div>
 
 
