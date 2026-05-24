@@ -1,4 +1,4 @@
-## Hi, I am Davi Reis    
+## Hi, I am Davi Reis    ⭐
 <div style="display: inline_block"><br>
   <img align="left" alt="Davi-CHT" height="200" width="200"
 src="https://github.com/user-attachments/assets/58ef915c-5314-4736-9900-676e5db480a5" /> 
