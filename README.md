@@ -1,6 +1,6 @@
 ## Hi, I am Davi Reis    
 <div style="display: inline_block"><br>
-  <img align="left" alt="Davi-CHT" height="250" width="250"
+  <img align="left" alt="Davi-CHT" height="200" width="200"
 src="https://github.com/user-attachments/assets/58ef915c-5314-4736-9900-676e5db480a5" /> 
    <img align="right" alt="Davi-CHT1" height="150" width="150"
 src="https://github.com/user-attachments/assets/912f6855-40ab-4893-9c51-24260a976e27" /> 
