@@ -1,6 +1,9 @@
 ## Hi, I am Davi Reis
  
 - I study Data Science 💻
+- I am formating in statics in Escola Nacional de Ciencias Eatatisitcas -
+ Instituto Brasilero de Geografia e Estatistica( The only governamental of
+Statitics inBrazil and the first course of statitics on Latin American) 
 - I really love my professional area 💙
 - I live on Rio de Janeiro - RJ ✈️🌊
 - I hava a really wish to travel to annother country someday 🗺️
