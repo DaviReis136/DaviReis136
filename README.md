@@ -1,4 +1,7 @@
-## Hi, I am Davi Reis
+## Hi, I am Davi Reis    <div style="display: inline_block"><br>
+  <img align="right" alt="Davi-Js" height="250" width="250"
+src="https://github.com/user-attachments/assets/58ef915c-5314-4736-9900-676e5db480a5" />
+</div>
  
 - I study Data Science 💻
 - I am formating in statics in Escola Nacional de Ciencias Eatatisitcas -
@@ -18,7 +21,8 @@ src="https://github.com/user-attachments/assets/d7ce3ca0-e4ec-4503-8771-97942ea7
   <img align="center" alt="Davi-XML" height="30" width="40"
 src="https://github.com/user-attachments/assets/52487807-f067-4e40-a501-87e61d163313" />
 </div>
-  
+
+
   ##
  
 <div> 
