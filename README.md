@@ -1,11 +1,11 @@
 
-## Hi, I am Davi Reis    ⭐
+## Hi, I am Davi Reis    ⭐<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/b31315b5-1e29-4736-b619-241e9404aa86" />
 <div>
   <img align="left" alt="Davi-CHT" height="200" width="200"
 src="https://github.com/user-attachments/assets/58ef915c-5314-4736-9900-676e5db480a5" /> 
 </div>
 
-   -  I study Data Science 💻<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="25" height="25" />
+   -  I study Data Science 💻
    -  I am formating in statics in Escola Nacional de Ciencias Eatatisitcas -
   Instituto Brasilero de Geografia e Estatistica (The only governamental of
   Statitics in Brazil). The first course of statitics on Latin American 🎓🏫
@@ -23,7 +23,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
   <img align="below" alt="Davi-Python" height="40" width="40" src="https://github.com/user-attachments/assets/b5f1f291-0fcc-4b2f-b709-8f66f1e37a0a">
   <img align="below" alt="Davi-XML" height="40" width="40"
 src="https://github.com/user-attachments/assets/52487807-f067-4e40-a501-87e61d163313" />
-
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="40" height="40" />
+  
   ##
  
 <div> 
@@ -61,6 +62,7 @@ Curriculum
 <img width="202" height="200" alt="212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5 (1)" src="https://github.com/user-attachments/assets/b5f1f291-0fcc-4b2f-b709-8f66f1e37a0a" />
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/6bcae6cc-a045-4054-80b3-b4622d2dd5f8" />
 <img width="35" height="35" alt="" />
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/b31315b5-1e29-4736-b619-241e9404aa86" />
 
 
 
