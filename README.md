@@ -42,7 +42,7 @@ Curriculum
   
 </div>
  
-![Stats](./profile/stats.svg)
+![Snake animation](https://github.com/DaviReis136)
 
 
 <!--
