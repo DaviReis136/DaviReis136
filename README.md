@@ -31,6 +31,9 @@ src="https://github.com/user-attachments/assets/52487807-f067-4e40-a501-87e61d16
   <a href = "mailto:davireispinheiro2008@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/davi-reis-992595403/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/b8e477ad-0929-48e6-b7c7-1875e1c1e34e" />
+
+##
+  
 </div>
 
 <div align = "center" >
