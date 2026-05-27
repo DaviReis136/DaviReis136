@@ -33,7 +33,7 @@ src="https://github.com/user-attachments/assets/52487807-f067-4e40-a501-87e61d16
   
 </div>
 
-
+svg = <[Snake Animation]https://github.com/DaviReis136>
 
 <!--
 **DaviReis136/DaviReis136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
