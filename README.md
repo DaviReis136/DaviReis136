@@ -30,6 +30,7 @@ src="https://github.com/user-attachments/assets/52487807-f067-4e40-a501-87e61d16
 <div> 
   <a href = "mailto:davireispinheiro2008@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/davi-reis-992595403/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/b8e477ad-0929-48e6-b7c7-1875e1c1e34e" />
 </div>
 
 <div align = "center" >
@@ -59,6 +60,8 @@ Curriculum
 
 <img width="202" height="200" alt="212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5 (1)" src="https://github.com/user-attachments/assets/623744c7-6a14-4d38-a918-5792b5928983" />
 <img width="202" height="200" alt="212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5 (1)" src="https://github.com/user-attachments/assets/b5f1f291-0fcc-4b2f-b709-8f66f1e37a0a" />
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/6bcae6cc-a045-4054-80b3-b4622d2dd5f8" />
+<img width="35" height="35" alt="" />
 
 <!--
 **DaviReis136/DaviReis136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
