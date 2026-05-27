@@ -1,12 +1,11 @@
 
 ## Hi, I am Davi Reis    ⭐
-
 <div>
   <img align="left" alt="Davi-CHT" height="200" width="200"
 src="https://github.com/user-attachments/assets/58ef915c-5314-4736-9900-676e5db480a5" /> 
 </div>
 
-   -  I study Data Science 💻
+   -  I study Data Science 💻<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="25" height="25" />
    -  I am formating in statics in Escola Nacional de Ciencias Eatatisitcas -
   Instituto Brasilero de Geografia e Estatistica (The only governamental of
   Statitics in Brazil). The first course of statitics on Latin American 🎓🏫
@@ -62,6 +61,8 @@ Curriculum
 <img width="202" height="200" alt="212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5 (1)" src="https://github.com/user-attachments/assets/b5f1f291-0fcc-4b2f-b709-8f66f1e37a0a" />
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/6bcae6cc-a045-4054-80b3-b4622d2dd5f8" />
 <img width="35" height="35" alt="" />
+
+
 
 <!--
 **DaviReis136/DaviReis136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
