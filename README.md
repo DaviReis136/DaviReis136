@@ -5,10 +5,6 @@
   <img align="left" alt="Davi-CHT" height="200" width="200"
 src="https://github.com/user-attachments/assets/58ef915c-5314-4736-9900-676e5db480a5" /> 
 </div>
-<div>
-  <img width="75" height="75" alt="download20260503151256" align = "right"
-    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjI0NWZ5NzVsdXpha2w0OXhlOGlqc3N2aGdlMTd2ZzZnbm9rY3lkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" />
-</div>
 
    -  I study Data Science 💻
    -  I am formating in statics in Escola Nacional de Ciencias Eatatisitcas -
@@ -18,7 +14,6 @@ src="https://github.com/user-attachments/assets/58ef915c-5314-4736-9900-676e5db4
    -  I live on Rio de Janeiro - RJ ✈️🌊
    -  I have a really wish to travel to annother country someday 🗺️
    -  And I am really greatuful for you view my profile 😁🫶
-
 
 <div style="display: inline_block"><br>
   <img align="below" alt="Davi-Js" height="30" width="40"
