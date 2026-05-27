@@ -1,5 +1,5 @@
 
-## Hi, I am Davi Reis    ⭐<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/b31315b5-1e29-4736-b619-241e9404aa86" />
+## Hi, I am Davi Reis    ⭐<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/f78a62c9-e6c6-4f80-a2d7-dbb453f0b2af" />
 <div>
   <img align="left" alt="Davi-CHT" height="200" width="200"
 src="https://github.com/user-attachments/assets/58ef915c-5314-4736-9900-676e5db480a5" /> 
@@ -63,6 +63,7 @@ Curriculum
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/6bcae6cc-a045-4054-80b3-b4622d2dd5f8" />
 <img width="35" height="35" alt="" />
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/b31315b5-1e29-4736-b619-241e9404aa86" />
+<img width="204" height="200" alt="212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2" src="https://github.com/user-attachments/assets/f78a62c9-e6c6-4f80-a2d7-dbb453f0b2af" />
 
 
 
