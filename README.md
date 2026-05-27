@@ -42,7 +42,7 @@ Curriculum
   
 </div>
  
-
+![Stats](./github/workflows/main.yml)
 
 
 <!--
