@@ -1,9 +1,12 @@
 ## Hi, I am Davi Reis    ⭐
-<div style="display: inline_block"><br>
-  <img align="left" alt="Davi-CHT" height="200" width="200"
+<div>
+  <img width="200" height="210" alt="download20260503151256" align = "right"
+    src="https://github.com/user-attachments/assets/ae2b91b1-03fc-4577-afca-a57eb09d25e7" />
+  <img align="left" alt="Davi-CHT" height="210" width="200"
 src="https://github.com/user-attachments/assets/58ef915c-5314-4736-9900-676e5db480a5" /> 
 </div>
- 
+
+
    -  I study Data Science 💻
    -  I am formating in statics in Escola Nacional de Ciencias Eatatisitcas -
   Instituto Brasilero de Geografia e Estatistica (The only governamental of
@@ -12,6 +15,7 @@ src="https://github.com/user-attachments/assets/58ef915c-5314-4736-9900-676e5db4
    -  I live on Rio de Janeiro - RJ ✈️🌊
    -  I have a really wish to travel to annother country someday 🗺️
    -  And I am really greatuful for you view my profile 😁🫶
+
 
 <div style="display: inline_block"><br>
   <img align="below" alt="Davi-Js" height="30" width="40"
@@ -30,11 +34,9 @@ src="https://github.com/user-attachments/assets/52487807-f067-4e40-a501-87e61d16
 <div> 
   <a href = "mailto:davireispinheiro2008@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/davi-reis-992595403/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
 
-<div align = "center">
-
+<div align = "center" >
 Curriculum
 
 ##
