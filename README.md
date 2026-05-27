@@ -24,12 +24,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
   <img align="below" alt="Davi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="below" alt="Davi-XML" height="30" width="40"
 src="https://github.com/user-attachments/assets/52487807-f067-4e40-a501-87e61d163313" />
-  <img width="30" height="30" alt="image aligne = "bellow" src="https://github.com/user-attachments/assets/5219b684-b346-48af-a2ec-b0c6b6e898e1" />
-
-</div>
-
-</div>
-
 
   ##
  
@@ -41,9 +35,10 @@ src="https://github.com/user-attachments/assets/52487807-f067-4e40-a501-87e61d16
 <div align = "center" >
 Curriculum
 
+
+
 ##
 
-  
 </div>
 
 <div style="display: inline_block align="left" "><br>
