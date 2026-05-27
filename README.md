@@ -16,13 +16,13 @@ src="https://github.com/user-attachments/assets/58ef915c-5314-4736-9900-676e5db4
    -  And I am really greatuful for you view my profile 😁🫶
 
 <div style="display: inline_block"><br>
-  <img align="below" alt="Davi-Js" height="30" width="40"
+  <img align="below" alt="Davi-Js" height="40" width="40"
 src="https://github.com/user-attachments/assets/6e7aec4e-82e5-4fb7-9958-85e5e7205390" />
-  <img align="below" alt="Davi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="below" alt="Davi-Ts" height="30" width="40" 
+  <img align="below" alt="Davi-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="below" alt="Davi-Ts" height="40" width="40" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="below" alt="Davi-Python" height="30" width="40" src="https://github.com/user-attachments/assets/b5f1f291-0fcc-4b2f-b709-8f66f1e37a0a">
-  <img align="below" alt="Davi-XML" height="30" width="40"
+  <img align="below" alt="Davi-Python" height="40" width="40" src="https://github.com/user-attachments/assets/b5f1f291-0fcc-4b2f-b709-8f66f1e37a0a">
+  <img align="below" alt="Davi-XML" height="40" width="40"
 src="https://github.com/user-attachments/assets/52487807-f067-4e40-a501-87e61d163313" />
 
   ##
