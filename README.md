@@ -42,7 +42,6 @@ Curriculum
   
 </div>
  
-![Snake animation]([https://github.com/DaviReis136](https://github.com/DaviReis136/DaviReis136.git))
 
 
 <!--
