@@ -1,8 +1,8 @@
 ## Hi, I am Davi Reis    ⭐
 <div>
-  <img width="200" height="210" alt="download20260503151256" align = "right"
-    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVodWJ1YTJzZ3RhcmUzY2JxajlnY3BhMGtxdnQybWxkbHJtdndxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" />
-  <img align="left" alt="Davi-CHT" height="210" width="200"
+  <img width="150" height="150" alt="download20260503151256" align = "right"
+    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjI0NWZ5NzVsdXpha2w0OXhlOGlqc3N2aGdlMTd2ZzZnbm9rY3lkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" />
+  <img align="left" alt="Davi-CHT" height="200" width="200"
 src="https://github.com/user-attachments/assets/58ef915c-5314-4736-9900-676e5db480a5" /> 
 </div>
 
