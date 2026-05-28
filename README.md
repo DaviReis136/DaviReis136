@@ -22,7 +22,27 @@ src="https://github.com/user-attachments/assets/58ef915c-5314-4736-9900-676e5db4
   
 # 💫 Curriculum:
 Atuo relacionado a Data Science<br>
+.
 
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
 
 ## 🌐 Socials:
 <div> 
