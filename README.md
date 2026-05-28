@@ -78,6 +78,9 @@ Atuo relacionado a Data Science<br>
 ---
 [![](https://komarev.com/ghpvc/?username=DaviReis136&icon=0&color=4)](https://visitcount.itsvg.in)
 
+<img src="https://raw.githubusercontent.com/DaviReis136/DaviReis136/snake-output/snake.svg" alt="Snake animation" />
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
