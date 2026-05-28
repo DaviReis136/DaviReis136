@@ -11,14 +11,14 @@
 src="https://github.com/user-attachments/assets/58ef915c-5314-4736-9900-676e5db480a5" /> 
 </div>
 
-   -  I study Data Science 💻
-   -  I am formating in statics in Escola Nacional de Ciencias Eatatisitcas -
+   -    I study Data Science 💻
+   -    I am formating in statics in Escola Nacional de Ciencias Eatatisitcas -
   Instituto Brasilero de Geografia e Estatistica (The only governamental of
   Statitics in Brazil). The first course of statitics on Latin American 🎓🏫
-   -  I really love my professional area 💙
-   -  I live on Rio de Janeiro - RJ ✈️🌊
-   -  I have a really wish to travel to annother country someday 🗺️
-   -  And I am really greatuful for you been view my profile 😁🫶
+   -    I really love my professional area 💙
+   -    I live on Rio de Janeiro - RJ ✈️🌊
+   -    I have a really wish to travel to annother country someday 🗺️
+   -    And I am really greatuful for you been view my profile 😁🫶
   
 # 💫 Curriculum:
 Atuo relacionado a Data Science<br>
