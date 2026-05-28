@@ -4,7 +4,7 @@
 </div>
 
 
-## Hi, I am Davi Reis  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="40" height="40" />  <img width="40" height="40" alt="1f60a" src="https://github.com/user-attachments/assets/3a2433e5-f235-4676-9446-bbdade47e290" />
+## Hi, I am Davi Reis <img width="40" height="40" alt="1f60a" src="https://github.com/user-attachments/assets/3a2433e5-f235-4676-9446-bbdade47e290" />
 
 <div>
   <img align="left" alt="Davi-CHT" height="200" width="200"
