@@ -8,7 +8,7 @@
 
 <div>
   
-  <img align="center" alt="Davi-CHT" height="200" width="200"
+  <img align="center" alt="Davi-CHT" height="180" width="180"
 src="https://github.com/user-attachments/assets/58ef915c-5314-4736-9900-676e5db480a5" /> 
   
 </div>
