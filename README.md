@@ -8,10 +8,14 @@
 
 <div>
   
-  <img align="left" alt="Davi-CHT" height="200" width="200"
+  <img align="center" alt="Davi-CHT" height="200" width="200"
 src="https://github.com/user-attachments/assets/58ef915c-5314-4736-9900-676e5db480a5" /> 
   
 </div>
+
+  
+# 💫 Curriculum:
+Atuo relacionado a Data Science<br>
 
    -    I study Data Science 💻
    -    I am formating in statics in Escola Nacional de Ciencias Eatatisitcas -
@@ -21,30 +25,6 @@ src="https://github.com/user-attachments/assets/58ef915c-5314-4736-9900-676e5db4
    -    I live on Rio de Janeiro - RJ ✈️🌊
    -    I have a really wish to travel to annother country someday 🗺️
    -    And I am really greatuful for you been view my profile 😁🫶
-  
-# 💫 Curriculum:
-Atuo relacionado a Data Science<br>
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
 
 ## 🌐 Socials:
 <div> 
