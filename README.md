@@ -1,4 +1,8 @@
 
+<div align= "center">
+<img width="500" height="500" alt="arrietty-thesecretworldofarrietty" src="https://github.com/user-attachments/assets/bcb247ad-0854-46ae-8290-40bf54828463" />
+</div>
+
 ## Hi, I am Davi Reis    ⭐<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/f78a62c9-e6c6-4f80-a2d7-dbb453f0b2af" />
 <div>
   <img align="left" alt="Davi-CHT" height="200" width="200"
@@ -57,11 +61,10 @@ Curriculum
 
 <img width="480" height="480" alt="238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb" src="https://github.com/user-attachments/assets/66c7b745-87bf-44f3-98ce-6dddb417fa41" />
 
-  <img width="480" height="480" alt="238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9" src="https://github.com/user-attachments/assets/23285926-1e21-4c3d-8a61-87d3bbc38109" />
 
-https://iconscout.com/lottie-animation/xml-animation_11337135
 
-  <
+
+  
 <!--
 **DaviReis136/DaviReis136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
