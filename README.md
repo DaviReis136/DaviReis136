@@ -18,9 +18,9 @@ src="https://github.com/user-attachments/assets/58ef915c-5314-4736-9900-676e5db4
    -  I really love my professional area 💙
    -  I live on Rio de Janeiro - RJ ✈️🌊
    -  I have a really wish to travel to annother country someday 🗺️
-   -  And I am really greatuful for you view my profile 😁🫶
+   -  And I am really greatuful for you been view my profile 😁🫶
   
-# 💫 About Me:
+# 💫 Curriculum:
 Atuo relacionado a Data Science<br>
 
 
