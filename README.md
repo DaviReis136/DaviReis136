@@ -4,7 +4,7 @@
 </div>
 
 
-## Hi, I am Davi Reis    ⭐<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/f78a62c9-e6c6-4f80-a2d7-dbb453f0b2af" />
+## Hi, I am Davi Reis<img width="40" height="40" alt="1f60a" src="https://github.com/user-attachments/assets/3a2433e5-f235-4676-9446-bbdade47e290" />
 <div>
   <img align="left" alt="Davi-CHT" height="200" width="200"
 src="https://github.com/user-attachments/assets/58ef915c-5314-4736-9900-676e5db480a5" /> 
@@ -72,6 +72,7 @@ Atuo relacionado a Data Science<br>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaviReis136/DaviReis136/pacman-output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DaviReis136/DaviReis136/pacman-output/pacman-contribution-graph.svg">
 </picture>
+
 
 
 
