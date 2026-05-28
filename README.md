@@ -54,22 +54,7 @@ Curriculum
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/820bea40-99e5-40f9-8bf6-f2b55b2b9273" />
 <div align = "right">
-  <img width="204" height="200" alt="212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2" src="https://github.com/user-attachments/assets/f6f58ba9-1674-459b-beaf-f2ee39d9730e" />
-</div>
-
-<img width="200" height="200" alt="212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6 (1)" src="https://github.com/user-attachments/assets/6e7aec4e-82e5-4fb7-9958-85e5e7205390" />
-<img width="200" height="200" alt="212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6" src="https://github.com/user-attachments/assets/e082c9d8-09f2-466b-88af-0060bc82827c" />
-<img width="200" height="200" alt="212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6 (1)" src="https://github.com/user-attachments/assets/2c3e4320-5cd6-4d61-93e9-791ede0ba0bb" />
-
-<img width="202" height="200" alt="212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5 (1)" src="https://github.com/user-attachments/assets/623744c7-6a14-4d38-a918-5792b5928983" />
-<img width="202" height="200" alt="212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5 (1)" src="https://github.com/user-attachments/assets/b5f1f291-0fcc-4b2f-b709-8f66f1e37a0a" />
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/6bcae6cc-a045-4054-80b3-b4622d2dd5f8" />
-<img width="35" height="35" alt="" />
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/b31315b5-1e29-4736-b619-241e9404aa86" />
-<img width="204" height="200" alt="212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2" src="https://github.com/user-attachments/assets/f78a62c9-e6c6-4f80-a2d7-dbb453f0b2af" />
-
-
-
+  <
 <!--
 **DaviReis136/DaviReis136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
