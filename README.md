@@ -19,19 +19,6 @@ src="https://github.com/user-attachments/assets/58ef915c-5314-4736-9900-676e5db4
    -  I live on Rio de Janeiro - RJ ✈️🌊
    -  I have a really wish to travel to annother country someday 🗺️
    -  And I am really greatuful for you view my profile 😁🫶
-
-<div style="display: inline_block"><br>
-  <img align="below" alt="Davi-Js" height="40" width="40"
-src="https://github.com/user-attachments/assets/6e7aec4e-82e5-4fb7-9958-85e5e7205390" />
-  <img align="below" alt="Davi-HTML" height="44" width="40" src="https://github.com/user-attachments/assets/23285926-1e21-4c3d-8a61-87d3bbc38109">
-  <img align="below" alt="Davi-Ts" height="44" width="40" 
-src="https://github.com/user-attachments/assets/66c7b745-87bf-44f3-98ce-6dddb417fa41">
-  <img align="below" alt="Davi-Python" height="40" width="40" src="https://github.com/user-attachments/assets/b5f1f291-0fcc-4b2f-b709-8f66f1e37a0a">
-  <img align="below" alt="Davi-XML" height="40" width="40"
-src="https://github.com/user-attachments/assets/52487807-f067-4e40-a501-87e61d163313" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="40" height="40" />
-  
-
   
 # 💫 About Me:
 Atuo relacionado a Data Science<br>
