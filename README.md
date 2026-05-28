@@ -4,7 +4,8 @@
 </div>
 
 
-## Hi, I am Davi Reis<img width="40" height="40" alt="1f60a" src="https://github.com/user-attachments/assets/3a2433e5-f235-4676-9446-bbdade47e290" />
+## Hi, I am Davi Reis    <img width="40" height="40" alt="1f60a" src="https://github.com/user-attachments/assets/3a2433e5-f235-4676-9446-bbdade47e290" />
+
 <div>
   <img align="left" alt="Davi-CHT" height="200" width="200"
 src="https://github.com/user-attachments/assets/58ef915c-5314-4736-9900-676e5db480a5" /> 
