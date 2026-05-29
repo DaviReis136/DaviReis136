@@ -20,7 +20,7 @@ Atuo relacionado a Data Science<br>
    -    I study Data Science 💻
    -    I am formating in statics in Escola Nacional de Ciencias Eatatisitcas -
   Instituto Brasilero de Geografia e Estatistica (The only governamental of
-  Statitics in Brazil). The first course on Latin American of statitics 🎓🏫
+  Statitics in Brazil). The first institute on Latin American that offers Statitic course🎓🏫
    -    I really love my professional area 💙
    -    I live on Rio de Janeiro - RJ ✈️🌊
    -    I have a really wish to travel to annother country someday 🗺️
