@@ -15,16 +15,21 @@ src="https://github.com/user-attachments/assets/58ef915c-5314-4736-9900-676e5db4
 
   
 # 💫 Curriculum:
-I work in the field of data science.
++ I work in the field of data science.
 
-   -    I study Data Science 💻
-   -    I am formating in statics in Escola Nacional de Ciencias Eatatisitcas -
-  Instituto Brasilero de Geografia e Estatistica (The only governamental of
-  Statitics research in Brazil). The first institute on Latin American that offers Statitics course🎓🏫
-   -    I really love my professional area 💙
-   -    I live on Rio de Janeiro - RJ ✈️🌊
-   -    I have a really wish to travel to annother country someday 🗺️
-   -    And I am really greatuful for you been view my profile 😁🫶
+> I study Data Science 💻
+
+> I am formating in statics in Escola Nacional de Ciencias Eatatisitcas -
+ Instituto Brasilero de Geografia e Estatistica (The only governamental of
+ Statitics research in Brazil). The first institute on Latin American that offers Statitics course🎓🏫
+
+> I really love my professional area 💙
+
+> I live on Rio de Janeiro - RJ ✈️🌊
+
+> I have a really wish to travel to annother country someday 🗺️
+
+> And I am really greatuful for you been view my profile 😁🫶
 
 ## 🌐 Socials:
 <div> 
