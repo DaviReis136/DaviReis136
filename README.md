@@ -15,7 +15,7 @@ src="https://github.com/user-attachments/assets/58ef915c-5314-4736-9900-676e5db4
 
   
 # 💫 Curriculum:
-Atuo relacionado a Data Science<br>
+I work in the field of data science.
 
    -    I study Data Science 💻
    -    I am formating in statics in Escola Nacional de Ciencias Eatatisitcas -
